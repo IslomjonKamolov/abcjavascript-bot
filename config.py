@@ -1,0 +1,2 @@
+TOKEN = "7848634535:AAEbGre1CsVYM3aG5GWA_y-ac5JEpLW-jFA"
+CHANNELS = ["@abs_javascript"]
